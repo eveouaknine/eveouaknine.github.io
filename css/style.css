@@ -3,5 +3,8 @@ body{
 }
 .center { 
     text-align: center;
-    border: 5px solid pink;
+    border: 5px solid grey;
+}
+p {
+    font-family: "Courier New",serif;
 }
